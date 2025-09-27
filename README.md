@@ -1,0 +1,2 @@
+- Nickname: Sauce
+- Favorite Food: Chicken and Watermelon
